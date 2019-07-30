@@ -1,0 +1,13 @@
+@charset "UTF-8";
+h3{
+	text-align:center;
+}
+header{
+	background-color:yellow;
+}
+form{
+	background-color:pink;
+}
+footer{
+	background-color:purple;
+}

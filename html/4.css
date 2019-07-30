@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+h1 {
+	color: brown;
+	text-align: center;
+}
+
+body {
+	background-color: aliceblue;
+}
+
+header {
+	border-style: 1px solid black;
+}
+
+ul {
+	border-style: 1px dotted;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	text: 휴먼편지체;
+	size: 1em;
+	text-indent: 1em;
+}
+
+h2 {
+	color: blue;
+	text-shadow: 1px 1px 1px gray;
+}
+
+footer {
+	background-color: orange;
+	border-radius: 30px;
+}
